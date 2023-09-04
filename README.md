@@ -1,4 +1,4 @@
-# PRIVACYPOLICY
+# PRIVACY POLICY
 
 
 Mother care ("us", "we", or "our") operates the Burp mobile application (hereinafter referred to as the "Service").
